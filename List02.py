@@ -8,4 +8,4 @@ def main(list1):
     """
     w=list1
     return w[0]
-print(main(["x", 1, "y", 2, "z", 3]))
+print(main(["x", 1, "y", 2, "z", 4]))
