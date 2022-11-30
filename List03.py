@@ -11,4 +11,4 @@ def main(list1,list2):
     w2=list2
     return w1 + w2
 
-print(main(["x", 1], ["y", 2, "z", 3] ))
+print(main(["x", 1], ["y", 2, "z", 4] ))
